@@ -54,7 +54,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/Vue%20-%23E34F26.svg?style=plastic&logo=vuedotjs&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/Vue%20-%23E34F26.svg?style=plastic&logo=vuedotjs&logoColor=green">
   </a>   
   &emsp;
   <a href="https://www.python.org" target="_blank">
