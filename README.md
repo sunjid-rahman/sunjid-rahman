@@ -57,7 +57,7 @@
    <img alt="vue" src="https://img.shields.io/badge/Vue%20-%23E34F26.svg?style=plastic&logo=vuedotjs&logoColor=white">
   </a>  
 <a href="https://www.react.dev" target="_blank"> 
-   <img alt="react" src="https://img.shields.io/badge/React%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
+   <img alt="react" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
   </a>  
   &emsp;
 </p>
