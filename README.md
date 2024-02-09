@@ -53,13 +53,13 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.vuejs.org" target="_blank"> 
    <img alt="vue" src="https://img.shields.io/badge/Vue%20-%23E34F26.svg?style=plastic&logo=vuedotjs&logoColor=white">
-  </a>   
+  </a>  
+<a href="https://www.react.dev" target="_blank"> 
+   <img alt="react" src="https://img.shields.io/badge/React%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
+  </a>  
   &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react%2361DAFB.svg?style=plastic&logo=react&logoColor=white">
-  </a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
