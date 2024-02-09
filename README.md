@@ -44,11 +44,15 @@
   <a href="https://www.djangoproject.com" target="_blank"> 
     <img alt="Python" src="https://img.shields.io/badge/Django%20-%2314354C.svg?style=plastic&logo=django&logoColor=white">
   </a> 
-&emsp:
+&emsp;
 	 <a href="https:www.typescriptlang.org" target="_blank"> 
      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=black">
    </a>
   &emsp;
+	<a href="https://www.djangoproject.com" target="_blank"> 
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS%20-%2314354C.svg?style=plastic&logo=nestdotjs&logoColor=black">
+  </a> 
+&emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
