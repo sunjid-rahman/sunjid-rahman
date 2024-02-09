@@ -49,8 +49,8 @@
      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=black">
    </a>
   &emsp;
-	<a href="https://www.djangoproject.com" target="_blank"> 
-    <img alt="NestJS" src="https://img.shields.io/badge/NestJS%20-%2314354C.svg?style=plastic&logo=nestdotjs&logoColor=black">
+	<a href="https://www.nestjs.com" target="_blank"> 
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS%20-%2314354C.svg?style=plastic&logo=nestjs&logoColor=black">
   </a> 
 &emsp;
   <a href="https://www.java.com" target="_blank"> 
