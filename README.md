@@ -50,7 +50,7 @@
    </a>
   &emsp;
 	<a href="https://www.nestjs.com" target="_blank"> 
-    <img alt="NestJS" src="https://img.shields.io/badge/NestJS%20-%2314354C.svg?style=plastic&logo=nestjs&logoColor=black">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS%20-%2314354C.svg?style=plastic&logo=nestjs&logoColor=white">
   </a> 
 &emsp;
   <a href="https://www.java.com" target="_blank"> 
