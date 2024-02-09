@@ -42,7 +42,7 @@
   </a> 
   &emsp;
   <a href="https://www.djangoproject.com" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=django&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
