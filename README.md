@@ -58,7 +58,7 @@
   </a>   
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="react" src="https://img.shields.io/badge/React%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
+    <img alt="react" src="https://img.shields.io/badge/React%2361DAFB.svg?style=plastic&logo=react&logoColor=white">
   </a>
 </p>
 
