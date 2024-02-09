@@ -54,11 +54,11 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/Vue%20-%23E34F26.svg?style=plastic&logo=vuedotjs&logoColor=green">
+   <img alt="vue" src="https://img.shields.io/badge/Vue%20-%23E34F26.svg?style=plastic&logo=vuedotjs&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/React%2361DAFB.svg?style=plastic&logo=reactdotjs&logoColor=black">
   </a>
 </p>
 
